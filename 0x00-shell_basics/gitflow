@@ -1,5 +1,0 @@
-#!/bin/bash
-git status
-git add . 
-git commit -m 'complete task 4'
-git push 

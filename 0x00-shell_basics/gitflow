@@ -1,5 +1,5 @@
 #!/bin/bash
 git status
 git add . 
-git commit -m 'testing out gitflow script and new update'
+git commit -m 'complete task 3'
 git push 

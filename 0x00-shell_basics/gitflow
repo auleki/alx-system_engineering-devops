@@ -1,5 +1,5 @@
 #!/bin/bash
 git status
 git add . 
-git commit -m 'complete task 3'
+git commit -m 'complete task 4'
 git push 
